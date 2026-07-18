@@ -730,3 +730,26 @@ font-weight:700;
 }
 
 }
+.popup-content{
+background:#fff;
+padding:25px;
+border-radius:12px;
+max-width:400px;
+width:90%;
+text-align:center;
+box-shadow:0 5px 20px rgba(0,0,0,.3);
+}
+
+.popup-content h2{
+margin-bottom:15px;
+}
+
+.popup-content button{
+margin-top:20px;
+padding:10px 25px;
+background:#000;
+color:#fff;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
