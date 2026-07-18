@@ -765,12 +765,3 @@ border:none;
 border-radius:6px;
 cursor:pointer;
 }
-
-
-    html {
-    scroll-behavior: smooth;
-}
-
-#categories {
-    scroll-margin-top: 140px;
-}
