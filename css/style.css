@@ -765,3 +765,40 @@ border:none;
 border-radius:6px;
 cursor:pointer;
 }
+
+
+    .today-offer{
+background:linear-gradient(135deg,#ff9800,#ff5722);
+color:#fff;
+text-align:center;
+padding:30px 20px;
+margin:25px 8%;
+border-radius:15px;
+box-shadow:0 6px 15px rgba(0,0,0,.2);
+}
+
+.today-offer h2{
+font-size:30px;
+margin-bottom:10px;
+}
+
+.today-offer p{
+font-size:18px;
+margin-bottom:20px;
+}
+
+.offer-btn{
+display:inline-block;
+padding:12px 28px;
+background:#fff;
+color:#ff5722;
+text-decoration:none;
+font-weight:bold;
+border-radius:30px;
+transition:.3s;
+}
+
+.offer-btn:hover{
+background:#222;
+color:#fff;
+}
