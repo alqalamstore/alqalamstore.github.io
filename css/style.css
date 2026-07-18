@@ -1,336 +1,799 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Al Qalam The Write Point</title>
-
-<link rel="stylesheet" href="css/style.css?v=2">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-</head>
-
-<body>
-
-<header class="header">
-
-<div class="logo">
-<h2><i class="fa-solid fa-pen-nib"></i> Al Qalam</h2>
-<p><b>The Write Point</b></p>
-</div>
-
-<nav>
-    <a href="#">Home</a>
-    <a href="#categories">Categories</a>
-    <a href="about.html">About Us</a>
-
-</nav>
-  
-</header>
-
-<section class="hero">
-
-<div class="hero-text">
-
-<h1>Everything You Need<br>In One Place</h1>
-
-<p>
-Printing • DTP Services • Wedding Cards • Stationery • Online Services
-</p>
-
-<a href="#categories" class="btn">Explore Collection</a>
-
-
-</div>
-
-
-<div class="hero-image">
-
-<img src="images/logo.jpeg" alt="Al Qalam">
-
-</div>
-
-</section>
-
-
-<section class="today-offer">
-    <h2>🔥 Today's Offer</h2>
-    <p>🔥 Limited Time Offers on <strong>Selected Items</strong>.</p>
-    <a href="offers.html" class="offer-btn">
-    🔥 View Today's Offers
-</a>
-</section>
-
-
-
-
-<section class="search-box">
-
-<input type="text" placeholder="Search Products...">
-
-</section>
-
-
-
-<section id="categories">
-
-<h2 class="title">Our Categories</h2>
-
-<div class="categories">
-
-
-<div class="card">
-
-<a href="notebooks.html">
-
-<img src="images/notebook.jpg">
-
-<h3>Notebooks</h3>
-
-<p>Classmate, School Mate & More</p>
-
-</a>
-
-</div>
-
-
-
-<div class="card">
-
-<a href="Pens.html">
-
-<img src="images/pens.jpg">
-
-<h3>Pens</h3>
-
-<p>Gel Pens, Ball Pens & More</p>
-
-</a>
-
-</div>
-
-<div class="card">
-
-    <a href="bags.html">
-
-        <img src="images/bags.jpg" alt="Bags">
-
-        <h3>Bags</h3>
-
-        <p>School Bags, College Bags, Laptop Bags & More</p>
-
-    </a>
-
-</div>
-
-
-
-
-
-
-<div class="card">
-
-<a href="PVC Cards.html">
-
-<img src="images/PVC Cards.jpg">
-
-<h3>PVC Cards</h3>
-
-<p>Aadhar, PAN, DL, RC & More</p>
-
-</a>
-
-</div>
-
-
-
-
-
-<div class="card">
-
-<a href="Study Tables.html">
-
-<img src="images/study table.jpg">
-
-<h3>Study Tables</h3>
-
-<p>Wooden & Folding Tables</p>
-
-</a>
-
-</div>
-
-
-
-<div class="card">
-
-<a href="Stationery Items.html">
-
-<img src="images/Stationery Iteams.jpg">
-
-<h3>Stationery</h3>
-
-<p>School & Office Items</p>
-
-</a>
-
-</div>
-
-</div>
-
-</section>
-<!-- Our Services -->
-<section class="services">
-    <h2>Our Services</h2>
-
-    <div class="service-box">
-        <h3>🖨️ Printing & Photocopy</h3>
-        <p>High-quality printing and photocopy services.</p>
-    </div>
-
-    <div class="service-box">
-        <h3>💻 DTP Services</h3>
-        <p>Typing, Designing, ID Cards, Invitations & More.</p>
-    </div>
-
-    <div class="service-box">
-        <h3>📄 Online Services</h3>
-        <p>Passport, PAN Card, Driving License, Exam Forms, etc.</p>
-    </div>
-
-    <div class="service-box">
-        <h3>📚 Stationery</h3>
-        <p>Notebooks, Pens, Files, School Supplies & More.</p>
-    </div>
-</section>
-<!-- Customer Reviews -->
-<section class="reviews">
-    <h2>Customer Reviews</h2>
-
-    <div class="review-container">
-
-        <div class="review-card">
-            <div class="stars">★★★★★</div>
-            <p>"Excellent stationery shop with affordable prices and quality products."</p>
-            <h4>- Aamir Ahmad</h4>
-        </div>
-
-        <div class="review-card">
-            <div class="stars">★★★★★</div>
-            <p>"Fast DTP service and beautiful wedding card designs. Highly recommended."</p>
-            <h4>- Irfan Lone</h4>
-        </div>
-
-        <div class="review-card">
-            <div class="stars">★★★★★</div>
-            <p>"Best place for printing, photocopy and online services in Palhallan."</p>
-            <h4>- Bilal Khan</h4>
-        </div>
-
-    </div>
-</section>
-
-
-
-<section class="why">
-
-<h2>Why Choose Al Qalam?</h2>
-
-<div class="features">
-
-<div>✅ Best Quality Products</div>
-
-<div>✅ Affordable Prices</div>
-
-<div>✅ Fast Printing Services</div>
-
-<div>✅ Online Form Filling</div>
-
-</div>
-
-</section>
-
-
-
-<section class="whatsapp">
-
-<a href="https://wa.me/919103551375">
-
-📱 Contact on WhatsApp
-
-</a>
-
-</section>
-<!-- Contact Section -->
-<section class="contact">
-
-    <h2>Contact Us</h2>
-
-    <div class="contact-box">
-
-        <div class="contact-info">
-
-            <h3>📍 Al Qalam The Write Point</h3>
-
-            <p>Near Govt Higher Secondary School, Palhallan, Baramulla, Jammu & Kashmir</p>
-
-            <p>📞 +91 9103551375</p>
-
-            <p>📧 alqalamthewritepoint@gmail.com</p>
-
-            <a href="https://wa.me/919103551375" class="contact-btn" target="_blank">
-                💬 Chat on WhatsApp
-            </a>
-
-        </div>
-
-<div class="map">
-
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d373.67834784665763!2d74.54310448448713!3d34.182275802452644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e1a1003543d81d%3A0x439527f8dfe5465d!2sAl%20Qalam%20The%20Write%20Point!5e0!3m2!1sen!2sin!4v1784002413856!5m2!1sen!2sin"
-        width="100%"
-        height="420"
-        style="border:0;border-radius:15px;"
-        allowfullscreen=""
-        loading="lazy"
-        referrerpolicy="strict-origin-when-cross-origin">
-    </iframe>
-
-</div>
-</section>
-
-
-<footer>
-
-<h3>Al Qalam The Write Point</h3>
-
-<p>Near Govt Higher Secondary School Palhallan</p>
-
-<p>📞 +91 9103551375</p>
-
-<p>© 2026 All Rights Reserved</p>
-
-</footer>
-
-<div id="popup" class="popup">
-  <div class="popup-content">
-    <h2>Important Notice</h2>
-    <p>
-      Thank you for visiting <b>Al Qalam Store</b>.<br><br>
-      Online orders are accepted only for purchases of
-      <b>₹300 or more</b>.<br>
-      Orders below <b>₹300</b> cannot be processed online.
-    </p>
-    <button onclick="document.getElementById('popup').style.display='none'">
-    OK
-</button>
-  </div>
-</div>
-
-<script src="js/script.js?v=2"></script>
-
-</body>
-</html>
+/* ===== GOOGLE FONT ===== */
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+background:#f5f7fa;
+color:#333;
+}
+
+/* ===== HEADER ===== */
+
+header{
+    text-align: center;
+    padding: 20px 0;
+}
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:18px 8%;
+background:linear-gradient(135deg,#0b6b3a,#128c52);
+color:white;
+position:sticky;
+top:0;
+z-index:999;
+box-shadow:0 3px 10px rgba(0,0,0,.15);
+}
+
+.logo h2{
+font-size:42px;
+font-weight:700;
+}
+
+.logo p{
+font-size:22px;
+font-weight:500;
+margin-top:8px;
+color:#FFD54F;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin-left:25px;
+font-weight:600;
+transition:.3s;
+}
+
+nav a:hover{
+color:#ffd54f;
+}
+
+/* ===== HERO ===== */
+
+
+.hero{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:70px 8%;
+background:linear-gradient(135deg,#0b6b3a,#128c52);
+color:white;
+flex-wrap:wrap;
+}
+.hero-text{
+max-width:550px;
+}
+
+.hero-text h1{
+font-size:52px;
+margin-bottom:20px;
+}
+
+.hero-text p{
+font-size:19px;
+margin-bottom:30px;
+line-height:1.7;
+}
+
+.hero-image img{
+width:320px;
+border-radius:20px;
+background:white;
+padding:15px;
+box-shadow:0 15px 30px rgba(0,0,0,.25);
+}
+
+/* ===== BUTTON ===== */
+
+.btn{
+display:inline-block;
+background:#ffd54f;
+color:#222;
+padding:15px 32px;
+border-radius:50px;
+font-weight:bold;
+text-decoration:none;
+transition:.3s;
+}
+
+.btn:hover{
+background:white;
+transform:translateY(-4px);
+}
+
+/* ===== SEARCH ===== */
+
+.search-box{
+padding:40px 8%;
+text-align:center;
+}
+
+.search-box input{
+width:100%;
+max-width:700px;
+padding:18px;
+font-size:18px;
+border:none;
+border-radius:50px;
+box-shadow:0 5px 15px rgba(0,0,0,.12);
+outline:none;
+}
+
+/* ===== TITLE ===== */
+
+.title{
+text-align:center;
+font-size:34px;
+margin-bottom:35px;
+color:#0b6b3a;
+}
+
+/* ===== CATEGORY ===== */
+
+.categories{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+gap:30px;
+padding:0 8% 70px;
+}
+
+.card{
+background:#fff;
+border-radius:20px;
+overflow:hidden;
+box-shadow:0 10px 25px rgba(0,0,0,.12);
+transition:.35s;
+text-align:center;
+padding-bottom:15px;
+}
+
+.card:hover{
+transform:translateY(-10px);
+}
+
+.card img{
+    width:100%;
+    height:180px;
+    object-fit:contain;
+    background:#fff;
+    padding:5px;
+    transition:transform .3s ease;
+}
+.card a{
+display:block;
+text-decoration:none;
+color:#333;
+}
+
+.card h3{
+    font-size:24px;
+    color:#0b6b3a;
+    font-weight:700;
+    text-align:center;
+    margin:15px 0 8px;
+    letter-spacing:0.5px;
+}
+.card h4{
+    color:#0b6b3a !important;
+    font-size:22px;
+    font-weight:bold;
+}
+.card p{
+    font-size:14px;
+    color:#666;
+    text-align:center;
+    margin:0 15px 15px;
+    line-height:1.5;
+}
+
+/* ===== WHY ===== */
+
+.why{
+background:white;
+padding:70px 8%;
+text-align:center;
+}
+
+.why h2{
+font-size:35px;
+margin-bottom:40px;
+color:#0b6b3a;
+}
+
+.features{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:25px;
+}
+
+.features div{
+background:#e8f5e9;
+padding:25px;
+border-radius:15px;
+font-weight:bold;
+}
+
+/* ===== WHATSAPP ===== */
+
+.whatsapp{
+padding:25px;
+text-align:center;
+}
+
+.whatsapp a{
+display:inline-block;
+background:#25D366;
+color:white;
+padding:10px 22px;
+text-decoration:none;
+border-radius:30px;
+font-size:16px;
+font-weight:600;
+}
+/* ===== FOOTER ===== */
+
+footer{
+background:#0b6b3a;
+color:white;
+text-align:center;
+padding:35px;
+line-height:2;
+}
+
+/* ===== MOBILE ===== */
+
+
+.header{
+flex-direction:column;
+}
+
+nav{
+margin-top:15px;
+}
+
+.hero{
+text-align:center;
+}
+
+.hero-text h1{
+font-size:36px;
+}
+
+.hero-image img{
+margin-top:40px;
+width:240px;
+}
+.page-title{
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #0b6b3a;
+    margin: 30px 0;
+    text-transform: uppercase;
+}
+header .page-title{
+    text-align: center !important;
+    font-size: 48px !important;
+    color: #0b6b3a !important;
+    font-weight: 700 !important;
+    margin: 20px 0 !important;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+    @media(max-width:768px){
+        .logo h2{
+    font-size:42px;
+    margin-bottom:2px;
+}
+        .hero{
+display:flex;
+flex-direction:column;
+align-items:center;
+text-align:center;
+        }
+        .hero-image{
+display:flex;
+justify-content:center;
+width:100%;
+        }
+        }
+
+@media(max-width:768px){
+
+.logo h2{
+    font-size:42px;
+    margin-bottom:2px;
+}
+
+.logo p{
+    font-size:18px;
+    margin-top:2px;
+    margin-bottom:0;
+    line-height:1.2;
+}
+
+.header{
+    flex-direction:column;
+}
+
+nav{
+    margin-top:15px;
+}
+
+.hero{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    text-align:center;
+}
+
+.hero-text h1{
+    font-size:36px;
+}
+
+.hero-image{
+    display:flex;
+    justify-content:center;
+    width:100%;
+}
+
+.hero-image img{
+    margin-top:40px;
+    width:240px;
+}
+
+}
+
+}   /* ← @media yahan khatam ho gaya */
+
+
+/* ===== Premium WhatsApp Button ===== */
+.order-btn{
+display:flex;
+align-items:center;
+justify-content:center;
+width:90%;
+margin:15px auto;
+padding:12px 18px;
+background:#25D366;
+color:#fff;
+}
+
+.order-btn:hover{
+background:#1EBE5D;
+transform:translateY(-3px);
+box-shadow:0 10px 20px rgba(37,211,102,.45);
+}
+.order-btn::before{
+content:"💬 ";
+}
+/* ===== ORDER BUTTON ===== */
+
+.order-btn{
+display:inline-block;
+background:#25D366;
+color:#fff !important;
+padding:10px 18px;
+border-radius:30px;
+text-decoration:none;
+font-size:15px;
+font-weight:600;
+margin-top:12px;
+box-shadow:0 4px 10px rgba(0,0,0,.15);
+transition:.3s;
+}
+
+.order-btn:hover{
+background:#1EBE5D;
+transform:translateY(-2px);
+}
+
+.order-btn::before{
+content:"💬 ";
+}
+/* ===== ABOUT PAGE ===== */
+
+.about{
+max-width:1200px;
+margin:70px auto;
+padding:0 20px;
+text-align:center;
+}
+
+.about h1{
+font-size:48px;
+color:#0b6b3a;
+margin-bottom:20px;
+}
+
+.about-text{
+max-width:800px;
+margin:auto;
+font-size:18px;
+line-height:1.8;
+color:#555;
+margin-bottom:50px;
+}
+
+.about-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:25px;
+}
+
+.about-card{
+background:#fff;
+padding:30px;
+border-radius:18px;
+box-shadow:0 8px 20px rgba(0,0,0,.08);
+transition:.3s;
+}
+
+.about-card:hover{
+transform:translateY(-8px);
+}
+
+.about-card h3{
+color:#0b6b3a;
+font-size:24px;
+margin-bottom:15px;
+}
+
+.about-card p{
+color:#666;
+line-height:1.7;
+}
+/* ===== SERVICES ===== */
+
+.services{
+max-width:900px;
+margin:60px auto;
+padding:20px;
+}
+
+.services h2{
+text-align:center;
+font-size:36px;
+color:#0b6b3a;
+margin-bottom:25px;
+}
+
+.services ul{
+list-style:none;
+padding:0;
+}
+
+.services li{
+background:#fff;
+margin:10px 0;
+padding:15px 20px;
+border-left:5px solid #0b6b3a;
+border-radius:10px;
+box-shadow:0 4px 10px rgba(0,0,0,.08);
+font-size:17px;
+}
+/* ===== OUR VISION ===== */
+
+.vision{
+max-width:900px;
+margin:60px auto;
+padding:20px;
+}
+
+.vision h2{
+text-align:center;
+font-size:38px;
+color:#0b6b3a;
+margin-bottom:25px;
+}
+
+.vision p{
+font-size:17px;
+line-height:1.8;
+color:#555;
+margin-bottom:18px;
+}
+
+.vision strong{
+color:#0b6b3a;
+}
+.logo .founder-tag{
+display:block;
+margin-top:5px;
+font-size:15px !important;
+font-weight:500;
+color:#ffffff !important;
+opacity:1 !important;
+line-height:1.4;
+}
+
+.logo .founder-tag strong{
+color:#ffd54f !important;
+font-weight:700;
+}
+
+.services{
+    padding:70px 20px;
+    background:#ffffff;
+    text-align:center;
+}
+
+.services h2{
+    font-size:38px;
+    color:#0b7a3d;
+    margin-bottom:45px;
+}
+
+.service-box{
+    display:inline-block;
+    width:280px;
+    margin:15px;
+    padding:25px;
+    background:#f8fff9;
+    border:2px solid #d9f2df;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.08);
+    transition:0.3s;
+}
+
+.service-box:hover{
+    background:#0b7a3d;
+    color:#fff;
+    transform:translateY(-8px);
+}
+
+.service-box h3{
+    color:#0b7a3d;
+    margin-bottom:12px;
+    font-size:22px;
+}
+
+.service-box:hover h3{
+    color:#fff;
+}
+
+.service-box p{
+    color:#555;
+    font-size:16px;
+    line-height:1.6;
+}
+
+.service-box:hover p{
+    color:#f5f5f5;
+}
+/* Customer Reviews */
+
+.reviews{
+    padding:70px 20px;
+    background:#f8f9fa;
+    text-align:center;
+}
+
+.reviews h2{
+    font-size:38px;
+    color:#0b7a3d;
+    margin-bottom:40px;
+}
+
+.review-container{
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+}
+
+.review-card{
+    width:320px;
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.review-card:hover{
+    transform:translateY(-8px);
+}
+
+.stars{
+    color:#FFD700;
+    font-size:24px;
+    margin-bottom:15px;
+}
+
+.review-card p{
+    color:#555;
+    line-height:1.7;
+    margin-bottom:15px;
+}
+
+.review-card h4{
+    color:#0b7a3d;
+}
+.card{
+    overflow:hidden;
+}
+
+.card img{
+    width:100%;
+    transition:transform 0.4s ease;
+}
+
+.card:hover img{
+    transform:scale(1.15);
+}
+.card img{
+    width:100%;
+    height:180px;
+    object-fit:contain;
+    transition:transform .3s ease;
+}
+
+.card:hover img{
+    transform:scale(1.04);
+}
+
+.card{
+    overflow:hidden;
+}
+/* ===== Contact Section ===== */
+
+.contact{
+    padding:40px 8% 70px;
+    background:#fff;
+}
+
+.contact h2{
+    text-align:center;
+    font-size:38px;
+    color:#0b6b3a;
+    margin-bottom:40px;
+}
+
+.contact-box{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:40px;
+    align-items:center;
+}
+
+.contact-info{
+    background:#f8fff9;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+.contact-info h3{
+    color:#0b6b3a;
+    margin-bottom:15px;
+}
+
+.contact-info p{
+    font-size:18px;
+    line-height:1.9;
+}
+.contact-btn{
+    display:inline-block;
+    margin-top:20px;
+    background:#25D366;
+    color:#fff;
+    padding:12px 22px;
+    border-radius:30px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.contact-btn:hover{
+    background:#1EBE5D;
+}
+.map iframe{
+    width:100%;
+    height:420px;
+    border:0;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+@media(max-width:768px){
+
+.contact-box{
+    grid-template-columns:1fr;
+}
+
+}
+/* Mobile par image zoom off */
+@media (max-width:768px){
+
+.card:hover img{
+    transform:scale(1);
+}
+
+.card img:hover{
+    transform:scale(1);
+}
+
+}
+
+.popup{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:rgba(0,0,0,.6);
+display:flex;
+justify-content:center;
+align-items:center;
+z-index:9999;
+}
+
+.popup-content{
+background:#fff;
+padding:25px;
+border-radius:12px;
+max-width:400px;
+width:90%;
+text-align:center;
+box-shadow:0 5px 20px rgba(0,0,0,.3);
+}
+
+.popup-content h2{
+margin-bottom:15px;
+}
+
+.popup-content button{
+margin-top:20px;
+padding:10px 25px;
+background:#000;
+color:#fff;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
+
+
+
+.today-offer{
+background:linear-gradient(135deg,#ff9800,#ff5722);
+color:#fff;
+text-align:center;
+padding:30px 20px;
+margin:25px 8%;
+border-radius:15px;
+box-shadow:0 6px 15px rgba(0,0,0,.2);
+}
+
+.today-offer h2{
+font-size:30px;
+margin-bottom:10px;
+}
+
+.today-offer p{
+font-size:18px;
+margin-bottom:20px;
+}
+
+.offer-btn{
+display:inline-block;
+padding:12px 28px;
+background:#fff;
+color:#ff5722;
+text-decoration:none;
+font-weight:bold;
+border-radius:30px;
+transition:.3s;
+}
+
+.offer-btn:hover{
+background:#222;
+color:#fff;
+}
